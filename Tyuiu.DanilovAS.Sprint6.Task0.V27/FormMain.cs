@@ -32,7 +32,7 @@ namespace Tyuiu.DanilovAS.Sprint6.Task0.V27
 
         private void buttonHelp_DAS_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Такс 0 выполнил студент группы ИИПБ-24-2 Данилов Александр Сергеевич","Информация");
+            MessageBox.Show("Таск 0 выполнил студент группы ИИПБ-24-2 Данилов Александр Сергеевич","Информация");
         }
     }
 }
