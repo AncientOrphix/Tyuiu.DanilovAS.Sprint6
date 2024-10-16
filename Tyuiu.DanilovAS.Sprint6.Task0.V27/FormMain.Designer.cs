@@ -103,7 +103,7 @@
             // 
             textBoxVarX_DAS.Location = new Point(14, 51);
             textBoxVarX_DAS.Name = "textBoxVarX_DAS";
-            textBoxVarX_DAS.Size = new Size(100, 23);
+            textBoxVarX_DAS.Size = new Size(95, 23);
             textBoxVarX_DAS.TabIndex = 0;
             textBoxVarX_DAS.KeyPress += textBoxVarX_DAS_KeyPress;
             // 

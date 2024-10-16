@@ -11,7 +11,7 @@ namespace Tyuiu.DanilovAS.Sprint6.Task0.V27.Test
             DataService ds = new DataService();
             int x = 4;
             double res = ds.Calculate(x);
-            double wait = -4.0;
+            double wait = -4.0; 
             Assert.AreEqual(wait, res);
         }
     }
